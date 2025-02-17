@@ -1,0 +1,6 @@
+# Ignore any binaries and Eamcs backups.
+main
+*.o
+*~
+
+# All for now.
